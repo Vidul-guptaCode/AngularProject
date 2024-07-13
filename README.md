@@ -1,2 +1,3 @@
 # AngularProject
-this is angular project
+This is angular project Repository
+Author-vidul
